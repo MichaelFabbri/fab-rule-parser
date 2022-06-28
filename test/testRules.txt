@@ -1,0 +1,95 @@
+Cover
+v1.2.3
+01 January 1984
+Legend Story Studios
+
+Preface
+this is a preface
+it has 2 lines
+i
+
+Table of Contents
+skip
+ii
+
+1. Game Concepts
+1.0. First Section
+1.0.1.  The rules in this document apply to any game of Flesh and Blood.
+1.0.1a This is the first subrule
+1.1. Second Section
+1.1.1. This section has two rules.
+1.1.2. This is the second rule of this section.
+1.1.2a This is a child rule.
+1.1.2b This is the second child rule.
+1
+
+2. Object Properties
+2
+
+2.0. Next Page Section
+3
+
+2.0.1. This is a next page rule
+4
+
+and it continues on the next page
+5
+
+2.0.1a This is a next page child rule
+6
+
+and it continues on the next page as well
+7
+
+3. Zones
+8
+
+4. Game Structure
+9
+
+5. Layers, Cards, & Abilities
+10
+
+6. Effects
+11
+
+7. Combat
+12
+
+8. Keywords
+13
+
+9. AdditionalRules
+14
+
+Glossary
+Chapter
+One of the main divisions of a relatively lengthy piece of writing, such as a book, that is usually numbered or titled.
+15
+
+Rule
+An authoritative, prescribed direction for conduct, especially one of the regulations governing procedure in a
+16
+
+legislative body or a regulation observed by the players in a game, sport, or contest.
+17
+
+Acknowledgments
+Flesh and Blood Creator
+James White
+18
+
+Rules and Policy Manager
+19
+
+Joshua James Scott
+20
+
+Development Team
+Jason Chung
+21
+
+Sasha Markovic
+© 2022 Nobody. No Rights Reserved. 123 Address, Place, Place 12345, Place.
+Some info about the terms of the copyright
+22
